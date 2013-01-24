@@ -1,0 +1,7 @@
+# this file should get sourced by build scripts... separated for reusability
+#
+# do NOT share this file! (contains TestFlight keys)
+
+API_TOKEN=put_a_real_value_here
+TEAM_TOKEN=put_a_real_value_here
+SIGNING_IDENTITY="iPhone Distribution: XYZ Corp"
